@@ -27,7 +27,7 @@ console.log(border);
 
 
 // let counter = 0;   // сколько всего свойств в объектк 
-
+  
 // for (let key in options) {    // перебор свойств объекта, for in
 //     if (typeof(options[key]) === 'object') {
 //         for (let i in options[key]) {
